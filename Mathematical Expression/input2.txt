@@ -1,0 +1,14 @@
+7
+a=1
+b=2
+c=2
+g=2
+p=3
+t=1
+w=2
+5
+a*b+a*c+b*c
+a*c-b/c+c*c
+g+p*t-w*p
+t-g+t-w
+e+t*t-m
